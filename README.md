@@ -50,5 +50,5 @@ Delivering modern, responsive, and performant user interfaces.
 ### ➡️ Direct me
 
 - **LinkedIn** — [stas-tarnohurskiy](https://www.linkedin.com/in/stas-tarnohurskiy-9aa2b6316)
-- **Telegram** — [@illinpayne](https://www.linkedin.com/in/stas-tarnohurskiy-9aa2b6316)
+- **Telegram** — [@illinpayne](https://t.me/illinpayne)
 - **Gmail** — garrixdit@gmail.com
