@@ -1,6 +1,6 @@
 <h1 align="center">Stanislav Tarnohurskiy</h1>
 <p align="center">
-  Full-Stack Developer with over 4+ years of professional experience in web development, <br/>proficient in .NET, Node.js, and modern application architecture.
+  Full-Stack Developer with over 5+ years of professional experience in web development, <br/>proficient in .NET, Node.js, AI and modern application architecture.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
@@ -31,7 +31,6 @@ Focusing on stability, speed, and maintainability for server-side operations.
 * **API Frameworks:**
     * **NestJS** (Modular, Opinionated)
     * **Express** (Minimalist Node)
-    * **Fastify** (High-Speed Performance)
 
 ### 🌐 Frontend Presentation
 
@@ -51,4 +50,4 @@ Delivering modern, responsive, and performant user interfaces.
 
 - **LinkedIn** — [stas-tarnohurskiy](https://www.linkedin.com/in/stas-tarnohurskiy-9aa2b6316)
 - **Telegram** — [@illinpayne](https://t.me/illinpayne)
-- **Gmail** — garrixdit@gmail.com
+- **Gmail** — garrixdit@gmail.com, stas.tarnohurskyi@gmail.com
